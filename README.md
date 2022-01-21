@@ -10,7 +10,7 @@
 |--------------|
               | TEAM |
 |--------------|
-| SAIRAJ JAWALIKAR || AMAAN SYED |
+| SAIRAJ JAWALIKAR | AMAAN SYED |
 |--------------|
 
 |--------------|
