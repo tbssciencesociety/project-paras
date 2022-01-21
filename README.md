@@ -5,8 +5,8 @@
 <a href='https://www.python.org/'><img src="https://img.shields.io/badge/Python-3-blue.svg?style=flat&logo=python"></a>
 <a href='LICENSE'><img src="https://img.shields.io/badge/License-MIT-brightgreen.svg"></a>
 
-## Based on TARS AI 
-BY 
-AMMAN SYED
-AND
-SAIRAJ JAWALIKAR
+[Website](https://tbssciencesociety.github.io/project-paras)
+
+|
+|
+|
