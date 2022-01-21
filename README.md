@@ -6,7 +6,7 @@
 <a href='LICENSE'><img src="https://img.shields.io/badge/License-MIT-brightgreen.svg"></a>
 
 
-| TEAM MEMBERS||
+| TEAM | MEMBERS |
 |--------------|--------------|
 | SAIRAJ JAWALIKAR | AMAAN SYED |
 
