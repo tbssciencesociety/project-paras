@@ -8,7 +8,7 @@
 [Website](https://tbssciencesociety.github.io/project-paras)
 
 
-|| TEAM MEMBERS ||
+| TEAM MEMBERS ||
 |--------------|--------------|
 | SAIRAJ JAWALIKAR | AMAAN SYED |
 
