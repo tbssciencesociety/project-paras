@@ -8,5 +8,5 @@
 
 | TEAM | MEMBERS |
 |--------------|--------------|
-| SAIRAJ JAWALIKAR | AMAAN SYED |
+| S41R4J | AMAAN SYED |
 
