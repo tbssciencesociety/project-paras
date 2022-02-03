@@ -8,5 +8,5 @@
 
 | TEAM | MEMBERS |
 |--------------|--------------|
-| S41R4J | AMAAN SYED |
+| [S41R4J](https://github.com/s41r4j) | AMAAN SYED |
 
