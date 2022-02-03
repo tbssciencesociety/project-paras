@@ -7721,6 +7721,12 @@ footer h5 {
   .scroll-top.active {
     right: 20px; }
 
+
+/* Custom */
+#namelink:link { font-weight: bold;  }
+#namelink:hover { font-weight: bolder; font-size:110%; }
+
+
 /* Icon Boxes */
 .icon-box {
   position: relative;
