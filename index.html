@@ -186,6 +186,7 @@
         </div>
 </section>
 
+    
 <!-- form -->
 <section class="pt-5 py-7" id="join">
     
@@ -194,19 +195,22 @@
         <p class="text-light lead">Want to contribute in this project, fill the form and we'll email you soon!</p>
     </div>
     
-    <form action="https://send.pageclip.co/yrIkuMEPSE269ILQrIEA1dCG7H6snFYV/joinus" class="pageclip-form" method="post">
-      <!-- Replace these inputs with your own. Make sure they have a "name" attribute! -->
-      <input type="text" name="name" value="name" />
-      <input type="email" name="email" value="email@example.com" />
-      <input type="number" name="name" value="mobile number" />
-
-      <!-- This button will have a loading spinner. Keep the inner span for best results. -->
-      <button type="submit" class="pageclip-form__submit">
-        <span>Send</span>
-      </button>
+    <form>
+      <div action="https://send.pageclip.co/yrIkuMEPSE269ILQrIEA1dCG7H6snFYV/joinus" class="form-group pageclip-form" method="post">
+        <label for="exampleInputEmail1">Email address</label>
+        <input type="email" name="email" class="form-control" aria-describedby="emailHelp" placeholder="Enter email">
+        <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+      </div>
+      <div class="form-group">
+        <label for="name">Github Username</label>
+        <input type="name" name="name" class="form-control"  placeholder="Enter username">
+      </div>
+      <button type="submit" class="btn btn-dark pageclip-form__submit">Submit</button>
     </form>
+    
 </section>
 
+    
 <!--footer-->
 <footer class="py-6">
     <div class="container" id="about">
